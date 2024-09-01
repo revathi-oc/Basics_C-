@@ -1,4 +1,4 @@
-# Basics_C-
+# Basics_C++
 ## Aim
 We learn about basics of C++.
 ## Theory
